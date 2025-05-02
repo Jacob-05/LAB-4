@@ -1,0 +1,116 @@
+{
+  "youtubers": [
+    {
+      "id": 1,
+      "name": "MrBeast",
+      "votes": 15000000,
+      "weight": 95,
+      "image": "/images/youtubers/mrbeast.jpg"
+    },
+    {
+      "id": 2,
+      "name": "PewDiePie",
+      "votes": 12000000,
+      "weight": 90,
+      "image": "/images/youtubers/pewdiepie.jpg"
+    },
+    {
+      "id": 3,
+      "name": "DrossRotzank",
+      "votes": 8000000,
+      "weight": 85,
+      "image": "/images/youtubers/dross.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Fernanfloo",
+      "votes": 7500000,
+      "weight": 80,
+      "image": "/images/youtubers/fernanfloo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "ElRubius",
+      "votes": 7000000,
+      "weight": 75,
+      "image": "/images/youtubers/rubius.jpg"
+    },
+    {
+      "id": 6,
+      "name": "AuronPlay",
+      "votes": 6500000,
+      "weight": 70,
+      "image": "/images/youtubers/auron.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Willyrex",
+      "votes": 6000000,
+      "weight": 65,
+      "image": "/images/youtubers/willyrex.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Vegetta777",
+      "votes": 5500000,
+      "weight": 60,
+      "image": "/images/youtubers/vegetta.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Markiplier",
+      "votes": 5000000,
+      "weight": 55,
+      "image": "/images/youtubers/markiplier.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Jacksepticeye",
+      "votes": 4500000,
+      "weight": 50,
+      "image": "/images/youtubers/jacksepticeye.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ninja",
+      "votes": 4000000,
+      "weight": 45,
+      "image": "/images/youtubers/ninja.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Shroud",
+      "votes": 3500000,
+      "weight": 40,
+      "image": "/images/youtubers/shroud.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Tfue",
+      "votes": 3000000,
+      "weight": 35,
+      "image": "/images/youtubers/tfue.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Bugha",
+      "votes": 2500000,
+      "weight": 30,
+      "image": "/images/youtubers/bugha.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Myth",
+      "votes": 2000000,
+      "weight": 25,
+      "image": "/images/youtubers/myth.jpg"
+    },
+    {
+      "id": 16,
+      "name": "TimTheTatman",
+      "votes": 1500000,
+      "weight": 20,
+      "image": "/images/youtubers/timthetatman.jpg"
+    }
+  ]
+} 
